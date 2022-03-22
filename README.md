@@ -1,2 +1,2 @@
 # C Plus Plus Working With Variables
-Working with variables in C++
+Working with variable in C++
